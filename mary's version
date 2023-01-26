@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<HTML>
+
+<head>
+<meta name="viewport" content="width=device-width">
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div class="container">
+<H1> Pizza </H1>
+</div>
+
+<main>
+<H2> My Favorite Toppings </H2> 
+
+    <li> Sausage </li>
+    <li> Cheese </li>
+    <li> Mushroom </li>
+
+</main>
+
+<footer>
+<img src="download.jfif" width="500" 
+</footer>
